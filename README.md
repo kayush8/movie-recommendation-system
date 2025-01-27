@@ -16,7 +16,7 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/kayush8/movie-recommender-system.git
+   git clone https://github.com/kayush8/movie-recommendation-system.git
    cd movie-recommendation-system
    ```
 
